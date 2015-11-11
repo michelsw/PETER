@@ -31,6 +31,7 @@ Current Members
 * Lizzy Harasymiw
 * Cody Kundinger
 * Marshall Scholz (Teslafly)
+* William Michels
 
 Finished Tasks
 --------------
